@@ -1,8 +1,5 @@
 language: go
 
-# go 1.13 is default on ubuntu 20.10 LTS
-# go 1.15 is the latest version, and the version used for the latest release
-
 go:
   - "1.20"
 
